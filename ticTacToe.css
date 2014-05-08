@@ -1,0 +1,23 @@
+div#tgame {
+  height: 150px;
+  width: 150px;
+}
+
+div.row {
+
+}
+
+div.cell {
+  height: 50px;
+  width: 50px;
+  float: left;
+  outline: black solid 2px;
+}
+
+div.x {
+  background-color: red;
+}
+
+div.o {
+  background-color: blue;
+}
